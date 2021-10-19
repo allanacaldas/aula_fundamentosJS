@@ -1,4 +1,4 @@
-# aula_fundamentosJS
+# Fundamentos do Javascript : tipos, variáveis e funções
 Material de Estudo do curso de Fundamentos do Javascript da Alura
 
 ### Formatando numeros em Java
