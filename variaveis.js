@@ -28,3 +28,9 @@ console.log(area);
 
 const anoDoDescobrimento = 1500;
 //anoDoDescobrimento = 1250; //Impossível de alterar pois estamos lidando com uma variável constante
+
+/*
+Ao declararmos uma variável como const ela deve obrigatoriamente receber um valor: const taxaComissao = 0.25;
+Ao declararmos let, ao contrário, podemos apenas declarar a variável, sem atribuir nenhum valor.
+ Além disso, o valor inicial pode ser modificado depois
+*/
