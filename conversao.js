@@ -13,3 +13,13 @@ console.log(numero + Number(numeroString)); // Em vez de somar, ele concatenou.
 
 //conversao explicita
 console.log(numero + numeroString);
+
+
+//Convertendo um Number em String e verificando se o tipo mudou para String
+let telefone = 34315065;
+console.log(typeof(telefone.toString()));
+
+// Convertendo de String para Numero
+let largura = "10";
+let altura = "5";
+console.log( Number(largura) * Number(altura)); // teremos a conversão de String para números, possibilitando a realização da da multiplicação
