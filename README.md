@@ -29,3 +29,12 @@ O **null** é um tipo especial, pois pode ser traduzido como “ausência de val
 - null é um objeto no JavaScript, diferente de undefined, que tem seu próprio tipo, e isso pode causar problemas se não tomarmos cuidado ao utilizá-lo.
 - O JavaScript converte automaticamente entre tipos de valores, como números para texto e para booleanos, porém não é interessante deixá-lo fazer isso automaticamente, pois podem ocorrer erros.
 - Temos como forçar uma mudança de tipo utilizando os métodos Number() e String(), onde Number() converte as variáveis para números ou NaN caso tenha algum erro na conversão, e String() converte as variáveis para texto.
+
+ ## Javascript e Node.js (aula 03)
+
+### Tipagem dinamica
+
+É uma linguagem que é dinamicamente tipada, ou seja, não precisamos declarar o tipo ao declarar ao variável
+
+## Documentação do Node.js
+https://nodejs.org/api/console.html
