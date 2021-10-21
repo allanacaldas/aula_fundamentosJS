@@ -20,4 +20,4 @@ const somaNumerosPequenos = (num1, num2) => {
 
 console.log(somaNumerosPequenos(15,5));
 
-//Atenção: o hoisting tbm funciona normalmente com as arrow function.
+//A arrow function também não tem suporte à hoisting.
