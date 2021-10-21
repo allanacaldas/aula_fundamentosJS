@@ -32,3 +32,10 @@ console.log(primeiroNumero < segundoNumero || segundoNumero > 3 ); // Basta uma 
 console.log(primeiroNumero != "1"); 
 console.log(primeiroNumero !== "1"); 
 
+
+//EXERCICIOS
+
+console.log(" " == 0); // Uma String vazia no Javascript é considerada false
+let a = []; //O valor de uma lista vazia é zero, e ao comparar com um número, temos 0 == 0 resultando true.
+
+console.log(a == 0);
